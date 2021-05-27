@@ -2,7 +2,7 @@
 ![Software Engineer](https://user-images.githubusercontent.com/60049864/119280034-645f0180-bbfd-11eb-9f91-283269839904.png)
 
 
-* **Title:** Software Engineer - Data Engineer -Full Stack
+* **Title:** Software Engineer - Data Engineer -Front End Developer
 * **Skills:** HTML, JavaSript, CSS, React.js, Ruby (1 year) SQL (10 years)
 * **Timezone:** EST
 * **Pronouns:** she/her/hers
